@@ -1,0 +1,445 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.header-background-img {
+	background-image: url('../images/header-background.png');
+	height: 150vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	object-fit: cover;
+}
+
+#all-thing-sport h4 {
+  	font-family: 'Roboto', sans-serif;
+  	font-size: 25px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+#all-thing-sport h1 {
+    font-size: 73px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 2.6px;
+    color: #FFFFFF;
+
+	color: #FFFFFF;
+}
+
+.down-arrow{
+  padding-bottom: 400px;
+}
+
+#all-thing-sport h5 {
+  font-size: 25px;
+	color: #D4C0CC;
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo-title{
+    width: 12%;
+    padding-top: 85px;
+}
+
+.logo{
+	width: 45%;
+  padding-left: 0.8rem!important;
+}
+
+.logo-titlename .far{
+	color: #FFFF;
+}
+
+nav .nav-link{
+	   font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #3c3c3c;
+}
+
+.scroll{
+  padding-top: 120px;
+}
+
+
+.navbar-toggler .navbar-toggler-icon{
+  background-color: #333;
+
+}
+
+.analytics-data{
+	padding-top: 125px;
+}
+
+.analytics .container{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.analytics-content{
+	position: relative;
+}
+
+.analytics-header-1{
+	font-family: 'Roboto', sans-serif;
+  	font-size: 55px;
+  	font-weight: 900;
+  	font-stretch: normal;
+  	font-style: normal;
+  	letter-spacing: 2.08px;
+  	text-align: center;
+  	color: #000000;
+}
+
+.analytics-header-2{
+	font-family: 'Roboto', sans-serif;
+  	font-size: 55px;
+  	font-weight: 900;
+  	font-stretch: normal;
+  	font-style: normal;
+  	letter-spacing: 2.08px;
+  	text-align: center;
+	margin-bottom: 150px;
+  	color: #000000;
+}
+
+.analytics-content .jumbotron{
+	background-color: #FFFFFF;;
+	position: absolute;
+	z-index: 99;
+	top: -160px;
+	width: 100%;
+	box-shadow:0 10px 16px 0 rgba(0,0,0,0.3),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+}
+
+.analytics-content p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+  	font-weight: normal;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.41;
+  	letter-spacing: 0.73px;
+  	text-align: left;
+  	color: #575757;
+}
+.scorpad-title{
+	font-family: 'Roboto', sans-serif;
+  	font-size: 50px;
+  	font-weight: 900;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.24;
+  	letter-spacing: 2.08px;
+  	text-align: left;
+  	color: #000000;
+}
+
+.scorpad-content{
+	   font-family: 'Roboto', sans-serif;
+  	font-size: 17px;
+  	font-weight: normal;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.55;
+  	letter-spacing: 0.73px;
+  	text-align: left;
+  	color: #575757;
+}
+
+#scorpad-mobile-app {
+	background-color: #F5F5F5;
+}
+
+.mobile-app-content{
+	padding-top: 501px;
+}
+
+.ios-store-btn{
+	background-color: #1B1464;
+	color: #FFFFFF;
+}
+
+.play-store-btn{
+	background-color: #FD022B;
+	color: #FFFFFF;
+}
+
+#scorpad-mobile-app .jumbotron{
+	background-image: linear-gradient(to right, #1b1464 , #7A305F, #ff002b);
+	position: relative;
+	bottom: 75px;
+	color: #FFFF;	
+	font-size: 28px;
+	font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+}
+
+#scorpad-mobile-app .jumbotron h5{
+	font-size: 20px;
+}
+
+.arrow {
+    position: relative;
+    width: 81%;
+    top: 35px;
+    left: -42px;
+}
+
+.mobile-image-2 {
+    position: relative;
+    bottom: 401px;
+    width: 375px;
+  	object-fit: contain;
+}
+
+.mobile-image-1 {
+    position: relative;
+    width: 375px;
+    bottom: 140px;
+    left: 120px;
+    object-fit: contain;
+}
+
+#our-team .team-title{
+	font-family: 'Roboto', sans-serif;	
+  	font-size: 60px;
+  	font-weight: 900;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.49;
+  	letter-spacing: 2.08px;
+  	text-align: center;
+  	color: #000000;
+}
+
+#our-team .card{
+  width: 23rem;
+}
+
+#our-team .card-body{
+  width: 23rem;
+}
+
+
+#our-team .card-body{
+	background-color: #1B1464;
+	color: #FFFFFF;
+}
+
+#our-team .card-body h5{
+	font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: 0.73px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.card small{
+	font-family: 'Roboto', sans-serif;
+  	opacity: 0.74;
+  	font-size: 15px;
+  	font-weight: normal;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.96;
+  	letter-spacing: 0.63px;
+  	text-align: center;
+  	color: rgba(255, 255, 255, 0.74);
+}
+
+#our-team p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding: 0px 80px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.41;
+    letter-spacing: 1.73px;
+    color: #575757;
+}
+
+#our-team .card-body .fab{
+	color: #ffff;
+}
+#contact-blogs h2{
+	font-family: 'Roboto', sans-serif;	
+  	font-size: 60px;
+  	font-weight: 900;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.49;
+  	letter-spacing: 2.08px;
+  	text-align: center;
+  	color: #000000;
+}
+
+#contact-blogs button{
+  background-color: #FF002B; 
+  outline: 0!important;
+  margin-right: 12px;
+}
+
+#blogs h2{
+	font-family: 'Roboto', sans-serif;	
+  	font-size: 60px;
+  	font-weight: 900;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.49;
+  	letter-spacing: 2.08px;
+  	text-align: center;
+  	color: #000000;
+  }
+
+#contact-blogs{
+	background-color: #F8F8F8;
+}
+
+#contact-blogs .form-control {
+  background-color: #F8F8F8;
+  }
+
+textarea {
+  width: 300px;
+  height: 150px;
+}
+
+#blogs h5{
+	font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: 0.73px;
+	 color: #000000;
+}
+
+
+#blogs p{
+	color: #666666;
+}
+
+.newsletter-title {
+	font-family: 'Roboto', sans-serif;	
+  	font-size: 53px;
+  	font-weight: 900;
+  	padding-top: 50px;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.49;
+  	letter-spacing: 2.08px;
+  	text-align: center;
+  	color: #000000;
+}
+
+.input-group {
+	padding-bottom: 200px;
+}
+
+#newsletter p{
+	font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.52px;
+    text-align: center;
+    color: #5f5f5f;
+}
+
+.subscribe-button {
+  background-color: #FF002B;
+  color: #FFFF;
+      height: 56px;
+
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-top-right-radius:10px;
+  border-bottom-right-radius: 10px;
+  outline: none !important; 
+  box-shadow: none !important; 
+}
+
+
+#newsletter input{
+  border: 0;
+  box-shadow:0px 7px 10px rgba(0,0,0,0.12) !important;
+}
+
+.jumbotron-menu img{
+  width: 45px;
+  height: 50px;
+  object-fit: contain;
+}
+
+.jumbotron-menu .collaborate-img{
+  width: 4px;
+  height: 5px;
+  object-fit: contain;  
+}
+
+a{
+    text-decoration: none!important;
+}
+
+footer{
+	background-color: #1B1464;
+}
+
+footer a{
+	color: #FFFF;
+}
+
+footer .footer-titles{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: 0.73px;
+    color: #ffffff;
+}
+
+#our-team{
+  padding-top: 50px;
+}
+
+footer p{
+	font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.96;
+    letter-spacing: 0.63px;
+    text-align: left;
+    color: #ffffff;
+}
+
+footer .fab{
+	font-size: 20px;
+	color: #ffffff;
+}
+
+#slider-section{
+  background-color: #F6F6F6;
+}
